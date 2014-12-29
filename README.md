@@ -1,0 +1,1 @@
+Rails Checkout using Stripe
